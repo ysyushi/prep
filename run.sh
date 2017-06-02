@@ -10,4 +10,4 @@
 echo "Start training..."
 python src/train.py $1 $2 $3 $5 ${6:-}
 echo "Start evaluation..."
-python eval/eval.py $1 $2 $3 $4 $5 ${6:-}
+python eval/link_pred.py $1 $2 $3 $4 $5 ${6:-}

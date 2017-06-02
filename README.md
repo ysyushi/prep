@@ -37,7 +37,7 @@ To train *PReP* model:<br/>
 ``python src/train.py matrix_file pair2node_file output_model_file num_clus [optional: beta] ``
 
 To evaluate the ouput *PReP* model:<br/>
-``python eval/eval.py matrix_file pair2node_file model_file truth_file num_clus [optional: beta] ``
+``python eval/link_pred.py matrix_file pair2node_file model_file truth_file num_clus [optional: beta] ``
 
 Alternatively, to run a shell script that first trains the model and then evaluates it:<br/>
 ``./run.sh matrix_file pair2node_file model_file truth_file num_clus [optional: beta] ``
@@ -48,7 +48,7 @@ An example dataset can be found under the ``data`` folder, which is a subset of 
 
 To run the previous three commands on example dataset, execute respectively:<br/>
 	``python src/train.py data/matrix.txt data/pair2node.txt data/example.model 15 1.e-4``<br/>
-	``python eval/eval.py data/matrix.txt data/pair2node.txt data/example.model data/truth.txt 15 1.e-4``<br/>
+	``python eval/link_pred.py data/matrix.txt data/pair2node.txt data/example.model data/truth.txt 15 1.e-4``<br/>
 	``./run.sh data/matrix.txt data/pair2node.txt data/example.model data/truth.txt 15 1.e-4``
 
 ### Citing
