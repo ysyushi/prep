@@ -1,9 +1,11 @@
 # PReP
 
-This repository provides a reference implementation of *PReP* as described in the paper:<br>
+This repository provides (1) a reference implementation of *PReP* as described in the paper:<br>
 > PReP: Path-Based Relevance from a Probabilistic Perspective in Heterogeneous Information Networks<br>
 > Yu Shi, Po-Wei Chan, Honglei Zhuang, Huan Gui, and Jiawei Han.<br>
 > In Proceedings of the 23nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, ACM, 2017.<br>
+
+and (2) the domain label for venues used in the experiment of the paper.
 
 ### Basic Usage
 
@@ -50,6 +52,14 @@ To run the previous three commands on example dataset, execute respectively:<br/
 	``python src/train.py data/matrix.txt data/pair2node.txt data/example.model 15 1.e-4``<br/>
 	``python eval/link_pred.py data/matrix.txt data/pair2node.txt data/example.model data/truth.txt 15 1.e-4``<br/>
 	``./run.sh data/matrix.txt data/pair2node.txt data/example.model data/truth.txt 15 1.e-4``
+
+### Domain Label for Venues
+
+In the DBLP experiment of the paper, each venue is associated with one of the fourteen venue domains, where a venue domain corresponds to a computer science research area as defined in the Wikipedia page: List of computer science conferences.
+
+We hereby release the mapping from venues to their domain labels that we have generated. 
+
+In the folder ``venue_label/``, ``venue_index.txt`` and ``domain_index.txt`` specify the indices of venues and domain labels, respectively; and ``venue_to_domain.txt`` provides the mapping from venue indices to domain indices. 
 
 ### Citing
 If you find *PReP* useful for your research, please consider citing the following paper:
