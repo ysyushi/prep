@@ -1,0 +1,14 @@
+1	Algorithms and theory, Algorithms, Geometric algorithms, Other specialized subtopics
+2	Programming languages
+3	Concurrent, distributed and parallel computing, High-performance computing
+4	Software engineering, Formal methods
+5	Operating systems
+6	Computer architecture, Computer hardware, Real-time and embedded systems, Computer-aided design
+7	Computer Networking and Networked Systems, Wireless networks
+8	Security and privacy, Cryptography
+9	Databases, Information Systems, Information Retrieval, Data Mining, Others
+10	Artificial intelligence, Automated reasoning, Computer vision, Natural language processing
+11	Computer graphics
+12	Human–computer interaction
+13	Computational biology
+14	Education

@@ -1,0 +1,621 @@
+141	ICEC
+151	CGIV
+157	PACT
+168	ACSAC
+170	AAAI
+172	AAAI/IAAI
+179	AAECC
+223	ACCV (2)
+224	ACCV (1)
+225	ACCV
+234	ACL
+236	ACL (Companion Volume)
+243	ACNS
+252	Ada-Europe
+274	ADMA
+303	Canadian Conference on AI
+311	AIED
+322	AINA
+331	AIPS
+332	ICAPS
+335	AIRS
+359	ALT
+388	ANTS
+395	AOSD
+408	Application and Theory of Petri Nets
+409	ICATPN
+411	Applications and Theory of Petri Nets
+427	APWeb
+441	ARVLSI
+442	ASAP
+445	ASIACRYPT
+454	ASP-DAC
+455	ASPLOS
+460	International ACM Conference on Assistive Technologies
+461	ASSETS
+468	AAMAS
+469	ATAL
+476	AAMAS (1)
+477	AAMAS (2)
+478	AAMAS (3)
+479	AAMAS (PhD)
+482	AAMAS (Industry Track)
+483	AAMAS (Demos)
+492	Australian Conference on Artificial Intelligence
+505	AVBPA
+531	BIBE
+535	BIOCOMP
+593	BMVC
+630	CADE
+632	IJCAR
+640	CAIP
+643	CAiSE
+650	CAiSE (Doctoral Consortium)
+674	CASES
+683	CAV
+687	CC
+691	CCCG
+692	CCGRID
+698	ASIACCS
+721	CGO
+725	CHES
+726	CHI Extended Abstracts
+728	CHI
+739	CICLing
+740	CIDR
+743	CIKM
+785	CLUSTER
+795	Structure in Complexity Theory Conference
+798	COCOON
+803	CODES+ISSS
+808	COLING
+813	COLT
+821	COMPSAC
+824	COMPSAC (1)
+856	CP
+873	CRYPTO
+881	CSCW
+883	CSCWD
+884	CSCWD (Selected Papers)
+887	CSFW
+888	CSF
+892	CSR
+896	ESA
+908	CVPR (1)
+909	CVPR (2)
+910	CVPR
+914	DAC
+1139	DASFAA
+1140	DATE
+1163	DBSec
+1168	Data Compression Conference
+1169	DCC
+1172	DCOSS
+1203	DEXA
+1229	DICTA
+1240	Discovery Science
+1258	DMIN
+1291	DSD
+1295	DSN
+1307	EACL
+1308	EACL (Demos)
+1309	EACL (Student Research Workshop)
+1321	ECAI
+1322	AISB (ECAI)
+1340	ECCV
+1341	ECCV (4)
+1342	ECCV (3)
+1343	ECCV (1)
+1344	ECCV (2)
+1358	ECIS
+1363	ECML
+1364	EWSL
+1367	ECOOP
+1381	ECP
+1382	ECRTS
+1399	EDBT
+1415	Edutainment
+1416	EEE
+1449	EMSOFT
+1461	ER (Workshops)
+1462	ER
+1469	ER (Tutorials, Posters, Panels & Industrial Contributions)
+1491	ESOP
+1492	ESORICS
+1524	EuroCOLT
+1525	EUROCRYPT
+1535	Euro-Par
+1559	EuroCG
+1568	EWSN
+1581	FAST
+1588	FCCM
+1590	FCT
+1594	FGCS
+1595	FGR
+1596	FG
+1612	FLOPS
+1615	FM
+1616	FME
+1630	FOCS
+1632	FOGA
+1637	FORTE
+1642	FOSSACS
+1645	FPGA
+1646	FPL
+1655	FSE
+1658	FSKD (2)
+1659	FSKD (3)
+1660	FSKD (4)
+1662	FSTTCS
+1663	FTCS
+1669	FUZZ-IEEE
+1689	GCC (1)
+1691	GCC Workshops
+1692	GCC
+1694	GECCO
+1697	GECCO (2)
+1728	GIS
+1734	ACM Great Lakes Symposium on VLSI
+1743	GPC
+1763	Gesture Workshop
+1793	HICSS
+1805	HiPC
+1816	HOPL
+1818	HotOS
+1821	HPCA
+1822	HPCC
+1826	HPDC
+1835	Ubicomp
+1857	IAS
+1859	Computational Intelligence
+1862	IAT
+1890	ICAC
+1893	IC-AI
+1899	ICALP
+1900	ICALP (2)
+1902	ICALP (1)
+1903	ICALT
+1904	ICANN (2)
+1905	ICANN
+1906	ICANN (1)
+1915	ICB
+1917	ICC (3)
+1918	ICC
+1919	ICC (1)
+1920	ICC (2)
+1929	ICCAD
+1931	ICCBR
+1937	ICCCN
+1938	ICCD
+1955	ICCV
+1958	ICDAR
+1960	ICDCS
+1961	ICDCS Workshops
+1968	ICDE
+1971	ICDM
+1972	ICDM Workshops
+1974	ICDT
+1983	ICEIS (2)
+1992	ICESS
+1999	ICFEM
+2000	ICFP
+2034	ICIP
+2035	ICIP (3)
+2036	ICIP (2)
+2037	ICIP (1)
+2038	ICIP (4)
+2039	ICIP (5)
+2040	ICIP (6)
+2041	ICIS
+2044	ICLP
+2048	JICSLP
+2061	ICMAS
+2067	ICME
+2069	ICMCS
+2071	ICMI
+2072	ICML
+2081	ICNC (2)
+2084	ICNP
+2096	ICPADS (1)
+2097	ICPADS
+2098	ICPADS (2)
+2100	ICPP
+2101	ICPP (1)
+2102	ICPP (2)
+2103	ICPP (3)
+2109	ICPR
+2110	ICPR (4)
+2111	ICPR (2)
+2112	ICPR (3)
+2113	ICPR (1)
+2116	ICRA
+2121	ICS
+2126	ICSE
+2129	WADS
+2131	ICSE Companion
+2139	ICSM
+2140	ICSM (Industrial and Tool Volume)
+2158	ICSR
+2163	ICTAI
+2178	ICWS
+2182	IDEAL
+2189	IEA/AIE
+2223	IFIP Int. Conf. Digital Forensics
+2343	CONFENIS (2)
+2366	IJCAI
+2370	IJCAI (1)
+2372	IJCAI (2)
+2389	IJCNN
+2392	ILP
+2410	IMR
+2424	INDOCRYPT
+2428	INFOCOM
+2437	INTERACT
+2438	INTERACT (2)
+2439	INTERACT (1)
+2454	IPDPS
+2455	IPPS
+2463	IPSN
+2465	IPTPS
+2479	ISAAC
+2483	ISBI
+2485	ISCA
+2487	ISCAS (3)
+2488	ISCAS (1)
+2489	ISCAS (5)
+2490	ISCAS
+2491	ISCAS (6)
+2492	ISCAS (4)
+2493	ISCAS (2)
+2516	ISLPED
+2518	ISM
+2521	ISMB (Supplement of Bioinformatics)
+2522	ISMB
+2531	ISNN (2)
+2532	ISNN (1)
+2533	ISNN (3)
+2544	ISPD
+2550	ISQED
+2551	ISSAC
+2557	ISSS
+2558	ISSTA
+2573	ISVLSI
+2576	ISWC
+2588	IUI
+2604	IWCC
+2607	IWLCS
+2621	ISMM
+2630	IWQoS
+2651	JCDL
+2677	ASE
+2684	KDD
+2703	KES (1)
+2729	KR
+2749	LCN
+2750	LCPC
+2752	LCTES
+2768	LICS
+2787	LOPSTR
+2790	LOPSTR (LNCS 2042: Selected Papers)
+2792	LPAR
+2820	MASCOTS
+2851	MFCS
+2870	MICRO
+2873	Middleware
+2879	Middleware (Companion)
+2880	Middleware (Demos and Posters)
+2881	Middleware (Doctoral Symposium)
+2893	Multimedia Information Retrieval
+2918	ACM Multimedia
+2938	MMM
+2956	MobiHoc
+2960	MobiQuitous
+2963	MobiSys
+2993	MSR
+2998	MSWiM
+3011	NAACL
+3030	NDSS
+3034	Networking
+3049	NIPS
+3053	NLDB
+3067	NOSSDAV
+3069	NPC
+3071	NSDI
+3105	OOPSLA
+3106	OOPSLA Companion
+3112	OPODIS
+3117	OSDI
+3122	OTM Workshops
+3138	PAKDD
+3144	PAM
+3147	Pattern Recognition
+3167	PCM (2)
+3168	IEEE Pacific Rim Conference on Multimedia
+3170	PCM
+3175	PDCAT
+3183	PDP
+3185	PDPTA
+3197	PerCom
+3214	PKDD
+3220	PLDI
+3227	PNPM
+3228	PODC
+3230	PODS
+3233	POPL
+3246	PPOPP
+3248	PPSC
+3249	PPSN
+3254	PRICAI
+3297	RAID
+3305	RE
+3308	RECOMB
+3334	RuleML
+3345	RSFDGrC
+3346	RSKT
+3350	RTA
+3352	IEEE Real-Time and Embedded Technology and Applications Symposium
+3353	RTCSA
+3357	RTSS
+3389	WSA
+3390	SAS
+3402	SC
+3418	SCIA
+3423	SCOPES
+3431	SDM
+3441	SECRYPT
+3445	SEKE
+3474	SenSys
+3477	Software Engineering Research and Practice
+3489	SI3D
+3506	SIGCOMM
+3511	SIGCSE
+3512	SIGDOC
+3514	SIGGRAPH
+3517	SIGGRAPH (Panels)
+3521	SIGIR
+3529	SIGMETRICS
+3531	SIGMOD Conference
+3551	SIGSOFT FSE
+3552	ESEC/SIGSOFT FSE
+3565	SINOBIOMETRICS
+3567	SIROCCO
+3602	SODA
+3617	SOSP
+3619	SPAA
+3622	SPDP
+3634	SRDS
+3635	Symposium on Reliability in Distributed Software and Database Systems
+3636	SSD
+3637	SSTD
+3639	SSDBM
+3640	SSIAI
+3648	STACS
+3651	STOC
+3659	SWAT
+3664	TABLEAUX
+3685	TCC
+3718	TREC
+3722	TSD
+3725	UAI
+3733	UIC
+3736	UIST
+3767	USENIX Security Symposium
+3800	VL/HCC
+3803	VLDB
+3808	VLSI Design
+3831	WAA
+3832	WABI
+3842	WAIM
+3844	APWeb/WAIM
+3846	WAOA
+3855	WDAG
+3856	DISC
+3859	WebDB (Selected Papers)
+3860	WebDB (Informal Proceedings)
+3861	WebDB
+3863	Web Intelligence
+3889	CIAA
+3890	WIA
+3900	WINE
+3901	WiOpt
+3910	WISE
+3927	WMCSA
+3957	Winter Simulation Conference
+3958	WSCG (Short Papers)
+3959	WSCG
+3960	WSCG (Posters)
+3961	WSCG (Full Papers)
+3962	WSCG (Journal Papers)
+3974	WWW
+3975	WWW (Alternate Paper Tracks)
+3977	WWW (Posters)
+3978	WWW (Alternate Track Papers & Posters)
+3980	WWW (Special interest tracks and posters)
+4007	PSIVT
+4013	WASA
+4031	ICICIC (2)
+4122	VTC Fall
+4123	VTC Spring
+4131	EuroSys
+4137	ICDCN
+4148	TASE
+4166	WoLLIC
+4173	MCAM
+4183	Congress on Evolutionary Computation
+4185	IEEE Congress on Evolutionary Computation
+4186	ITiCSE
+4199	ISICA
+4255	GLOBECOM
+4289	Infoscale
+4360	CoNEXT
+4375	OWLED
+4432	WAFR
+4448	ICIRA (2)
+4459	IROS
+4482	NOMS
+4498	SECON
+4511	CSSE (4)
+4537	ICARCV
+4542	WCNC
+4548	ICNSC
+4573	Applied Artificial Intelligence
+4582	Adv. Comput. Math.
+4586	AI in Engineering
+4597	Ann. Math. Artif. Intell.
+4603	Appl. Intell.
+4604	Appl. Math. Lett.
+4612	Biological Cybernetics
+4615	Bioinformatics
+4618	BMC Bioinformatics
+4621	Computer-Aided Design
+4622	Computer Aided Geometric Design
+4632	Comput. Graph. Forum
+4644	Computer Networks
+4651	Computer Communications
+4658	Concurrency and Computation: Practice and Experience
+4680	Computer Vision and Image Understanding
+4682	Discrete Applied Mathematics
+4691	IEEE Data Eng. Bull.
+4697	Discrete Mathematics
+4704	Decision Support Systems
+4709	Evolutionary Computation
+4732	Formal Asp. Comput.
+4737	Fuzzy Sets and Systems
+4761	Intell. Data Anal.
+4767	IEICE Transactions
+4774	International Journal on Artificial Intelligence Tools
+4782	Int. J. Comput. Math.
+4789	Int. J. Found. Comput. Sci.
+4795	Int. J. Image Graphics
+4807	Neurocomputing
+4809	IJPRAI
+4811	International Journal of Software Engineering and Knowledge Engineering
+4824	INFORMS Journal on Computing
+4826	Inf. Sci.
+4832	Inf. Process. Manage.
+4847	Image Vision Comput.
+4861	JASIST
+4870	Journal of Computational Biology
+4873	Journal of Chemical Information and Computer Sciences
+4878	J. Comb. Optim.
+4882	J. Comb. Theory, Ser. B
+4890	JETC
+4923	J. Parallel Distrib. Comput.
+4928	IEEE Journal on Selected Areas in Communications
+4929	J. Symb. Comput.
+4932	Journal of Systems and Software
+4933	J. Symb. Log.
+4938	Knowl. Inf. Syst.
+4958	Machine Learning
+4971	Nucleic Acids Research
+4975	Neural Computation
+4976	IEEE Network
+4980	New Generation Comput.
+4994	IEEE Trans. Pattern Anal. Mach. Intell.
+4995	Parallel Computing
+4998	Perform. Eval.
+5004	Pattern Recognition Letters
+5016	Real-Time Systems
+5025	SIAM J. Comput.
+5032	SIGKDD Explorations
+5035	SIGMOD Record
+5038	Operating Systems Review
+5039	SIGPLAN Notices
+5045	Soft Comput.
+5047	IEEE Software
+5051	Softw., Pract. Exper.
+5068	IEEE Trans. on CAD of Integrated Circuits and Systems
+5069	IEEE/ACM Trans. Comput. Biology Bioinform.
+5070	IEEE Transactions on Communications
+5071	Theor. Comput. Sci.
+5073	IEEE Trans. Circuits Syst. Video Techn.
+5077	ACM Trans. Embedded Comput. Syst.
+5080	IEEE T. Fuzzy Systems
+5082	IEEE Transactions on Image Processing
+5085	IEEE Transactions on Information Theory
+5088	IEEE Trans. Knowl. Data Eng.
+5090	IEEE Trans. Med. Imaging
+5095	ACM Trans. Design Autom. Electr. Syst.
+5096	ACM Trans. Database Syst.
+5103	IEEE/ACM Trans. Netw.
+5104	ACM Trans. Program. Lang. Syst.
+5108	IEEE Trans. Parallel Distrib. Syst.
+5112	IEEE Trans. Software Eng.
+5115	IEEE Transactions on Systems, Man, and Cybernetics, Part A
+5116	IEEE Transactions on Systems, Man, and Cybernetics, Part B
+5119	IEEE Trans. Vis. Comput. Graph.
+5120	IEEE Trans. VLSI Syst.
+5123	The Visual Computer
+5140	J. Visual Communication and Image Representation
+5143	Journal of Graph Theory
+5144	Applied Mathematics and Computation
+5145	Signal Processing
+5150	Microelectronics Journal
+5158	European Journal of Operational Research
+5170	VLSI Signal Processing
+5229	IEEE Transactions on Neural Networks
+5231	IEEE Transactions on Wireless Communications
+5238	IEEE Pervasive Computing
+5240	ACM SIGSOFT Software Engineering Notes
+5252	Science in China Series F: Information Sciences
+5285	PVLDB
+5331	I. J. Bifurcation and Chaos
+5387	Scalable Optimization via Probabilistic Modeling
+5506	GEC Summit
+5525	Complex (1)
+5953	Advances in Adaptive Data Analysis
+5969	ACCV (3)
+5970	ACL (Short Papers)
+5971	ACL (Demo Papers)
+5972	ACL (Student Research Workshop)
+5973	ACL (Tutorial Abstracts)
+5974	ACL (Companion)
+6001	COLING (Posters)
+6002	COLING (Demos)
+6049	ESA (1)
+6050	ESA (2)
+6094	ICANN (3)
+6099	ICLP (Technical Communications)
+6104	ICSE (2)
+6105	ICSE (1)
+6235	HPCA (China)
+6527	ACL (System Demonstrations)
+6536	CICLing (1)
+6538	CICLing (2)
+6543	ECCV (6)
+6549	ISAAC (2)
+6550	ISAAC (1)
+6553	LPAR (Dakar)
+6577	MASS
+7120	ACCV (4)
+7121	ACL (Student Session)
+7122	AOSD (Companion)
+7127	COLING (Tutorials)
+7152	Networking (1)
+7153	Networking (2)
+7158	WWW (Companion Volume)
+7615	UIST (Adjunct Volume)
+7628	CAIP (1)
+7629	CAIP (2)
+7666	INTERACT (3)
+7667	INTERACT (4)
+7763	PSIVT (2)
+7764	PSIVT (1)
+7775	DCFS
+7791	ITS
+7877	I3D
+7908	CSCL
+7909	CSCL (2)
+7910	CSCL (1)
+8042	CSCW (Companion)
+8353	ICME (1)
+8354	ICME (2)
+8389	RTAS
+8488	NAACL (Student Research Workshop)
+8489	NAACL (Demos)
+8498	ACL (1)
+8499	ACL (2)
+8542	ECCV (5)
+8543	ECCV (7)
+8677	Eurographics (Short Papers)
+8847	CCS
